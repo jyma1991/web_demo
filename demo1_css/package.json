@@ -1,0 +1,13 @@
+{
+    "author": "ma",
+    "description": "css demo1",
+    "devDependencies": {
+        "live-server": "^1.2.2"
+    },
+    "license": "MIT",
+    "name": "css-demo1",
+    "scripts": {
+        "start": "live-server --port=8083 "
+    },
+    "version": "1.0.0"
+}
